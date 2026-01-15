@@ -47,6 +47,20 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        chart: {
+          revenue: "hsl(var(--chart-revenue))",
+          sales: "hsl(var(--chart-sales))",
+        },
+        stat: {
+          blue: "hsl(var(--stat-blue))",
+          "blue-text": "hsl(var(--stat-blue-text))",
+          green: "hsl(var(--stat-green))",
+          "green-text": "hsl(var(--stat-green-text))",
+          yellow: "hsl(var(--stat-yellow))",
+          "yellow-text": "hsl(var(--stat-yellow-text))",
+          pink: "hsl(var(--stat-pink))",
+          "pink-text": "hsl(var(--stat-pink-text))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
